@@ -1,8 +1,6 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on a project tentatively titled the Games Mentor Marketplace
-- 🌱 I’m currently preparing for the Certified Kubernetes Application Developer exam
-- 😄 Pronouns: He/Him
+- My key interests are video games and decarbonising software. 
+- Most of my time is currently allocated to work-for-hire projects.
+- I’m currently working on a one-to-one matchmaking platform for technical consultations and short-term mentorships in the games industry.
 
 <!--
 **markvideon/markvideon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
