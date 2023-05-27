@@ -1,6 +1,6 @@
 - My key interests are video games and decarbonising software. 
 - Most of my time is currently allocated to work-for-hire projects.
-- I’m currently working on a one-to-one matchmaking platform for technical consultations and short-term mentorships, to bridge the skills gap in the games industry.
+- I’m currently working on a one-to-one matchmaking platform to bridge the skills gap in the games industry.
 
 <!--
 **markvideon/markvideon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
