@@ -1,6 +1,5 @@
-- My key interests are video games and decarbonising software. 
-- Most of my time is currently allocated to work-for-hire projects.
-- I’m currently working on a one-to-one matchmaking platform to bridge the skills gap in the games industry.
+- Most of my time is currently allocated to work-for-hire projects, building software on behalf of governments and businesses at every scale, for mobile, desktop, and the web.
+- I’m helping students master C++ at the University of South Australia.
 
 <!--
 **markvideon/markvideon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
