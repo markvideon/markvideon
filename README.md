@@ -1,5 +1,7 @@
+- [Flutter](https://flutter.dev/) and game development are my professional interests.
 - Most of my time is currently allocated to work-for-hire projects, building software on behalf of governments and businesses at every scale, for mobile, desktop, and the web.
 - I’m helping students master C++ at the University of South Australia.
+- I am an organiser for [GDG Adelaide](https://gdg.community.dev/gdg-adelaide/).
 
 <!--
 **markvideon/markvideon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
