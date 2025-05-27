@@ -1,5 +1,5 @@
 - [Flutter](https://flutter.dev/) and game development are my professional interests.
-- Most of my time is currently allocated to working on the #1 travel app on the App Store in Australia, [WikiCamps](https://apps.apple.com/au/app/wikicamps-australia/id505365608).
+- Most of my time is currently allocated to working on the #1 paid app on the App Store in Australia, [WikiCamps](https://apps.apple.com/au/app/wikicamps-australia/id505365608).
 
 <!--
 **markvideon/markvideon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
