@@ -4,6 +4,7 @@ About me:
 - Most of my time is currently allocated to working on the #1 paid app on the App Store in Australia, [WikiCamps](https://apps.apple.com/au/app/wikicamps-australia/id505365608).
 
 I'm actively working on a communication project about understanding software as digital manufacturing. Here are some of my written works:
+- [Breaking The Work Up](https://blog.markvideon.dev/breaking-the-work-up/)
 - [Commodisation, Or Lack Thereof](https://blog.markvideon.dev/commoditisation-or-lack-thereof/)
 - [The Division of Labour](https://blog.markvideon.dev/the-division-of-labour/)
 - [An Introduction to Code and Quality Metrics](https://blog.markvideon.dev/an-introduction-to-code-and-quality-metrics/)
