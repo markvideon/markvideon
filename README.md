@@ -4,6 +4,7 @@ About me:
 - Most of my time is currently allocated to working on the #1 paid app on the App Store in Australia, [WikiCamps](https://apps.apple.com/au/app/wikicamps-australia/id505365608).
 
 I'm actively working on a communication project about understanding software as digital manufacturing. Here are some of my written works:
+- [Mining For Primitives & New Means Of Production](https://blog.markvideon.dev/mining-for-primitives-new-means-of-production/)
 - [Instability, Risk & The Digital Supply Chain](https://blog.markvideon.dev/instability-risk-and-the-digital-supply-chain/)
 - [Ownership & Access Rights](https://blog.markvideon.dev/ownership-and-access-rights/)
 - [Breaking The Work Up](https://blog.markvideon.dev/breaking-the-work-up/)
