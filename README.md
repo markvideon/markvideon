@@ -4,6 +4,7 @@ About me:
 - Most of my time is currently allocated to working on the #1 paid app on the App Store in Australia, [WikiCamps](https://apps.apple.com/au/app/wikicamps-australia/id505365608).
 
 I'm actively working on a communication project about understanding software, primarily as a form of digital manufacturing. Here are some of my written works:
+- [There Is A Factory](https://blog.markvideon.dev/there-is-a-factory/)
 - [The Network Formerly Known As The Information Superhighway](https://blog.markvideon.dev/the-network-formerly-known-as-the-information-superhighway/)
 - [B.Y.O.D](https://blog.markvideon.dev/b-y-o/)
 - [User Accounts & Why You Need Dozens](https://blog.markvideon.dev/user-accounts-why-you-need-dozens/)
