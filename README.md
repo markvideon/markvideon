@@ -6,12 +6,8 @@ About me:
 I'm actively working on a communication project about understanding software, primarily as a form of digital manufacturing. Here are some of my written works:
 - [UX Design In Software](https://blog.markvideon.dev/ux-design-in-software/)
 - [There Is A Factory](https://blog.markvideon.dev/there-is-a-factory/)
-- [The Network Formerly Known As The Information Superhighway](https://blog.markvideon.dev/the-network-formerly-known-as-the-information-superhighway/)
 - [B.Y.O.D](https://blog.markvideon.dev/b-y-o/)
 - [User Accounts & Why You Need Dozens](https://blog.markvideon.dev/user-accounts-why-you-need-dozens/)
-- [Deployments, Growing The Digital Multiverse](https://blog.markvideon.dev/deployments-growing-the-digital-multiverse/)
-- [Software Versioning & The Digital Multiverse](https://blog.markvideon.dev/software-versioning-the-digital-multiverse/)
-- [Sources Of Truth](https://blog.markvideon.dev/sources-of-truth/)
 - [Mining For Primitives & New Means Of Production](https://blog.markvideon.dev/mining-for-primitives-new-means-of-production/)
 - [Instability, Risk & The Digital Supply Chain](https://blog.markvideon.dev/instability-risk-and-the-digital-supply-chain/)
 - [Ownership & Access Rights](https://blog.markvideon.dev/ownership-and-access-rights/)
@@ -20,6 +16,7 @@ I'm actively working on a communication project about understanding software, pr
 - [The Division of Labour](https://blog.markvideon.dev/the-division-of-labour/)
 - [An Introduction to Code and Quality Metrics](https://blog.markvideon.dev/an-introduction-to-code-and-quality-metrics/)
 
+🚀
 
 <!--
 **markvideon/markvideon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
