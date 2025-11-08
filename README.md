@@ -4,6 +4,7 @@ About me:
 - Most of my time is currently allocated to working on the #1 paid app on the App Store in Australia, [WikiCamps](https://apps.apple.com/au/app/wikicamps-australia/id505365608).
 
 I'm actively working on a communication project about understanding software, primarily as a form of digital manufacturing. Here are some of my written works:
+- [Investigating Issues: The Field Of Truth And The Fog Of War](https://blog.markvideon.dev/investigating-issues-the-field-of-truth-the-fog-of-war/)
 - [Specifying The Product](https://blog.markvideon.dev/specifying-the-product/)
 - [The Digital Product](https://blog.markvideon.dev/the-digital-product/)
 - [The Project: The Factory For Digital Factories](https://blog.markvideon.dev/the-project-the-factory-for-digital-factories/)
