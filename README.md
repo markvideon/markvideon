@@ -10,15 +10,11 @@ I'm actively working on a communication project about understanding software, pr
 - [The Digital Product](https://blog.markvideon.dev/the-digital-product/)
 - [The Project: The Factory For Digital Factories](https://blog.markvideon.dev/the-project-the-factory-for-digital-factories/)
 - [There Is A Factory](https://blog.markvideon.dev/there-is-a-factory/)
-- [B.Y.O.D](https://blog.markvideon.dev/b-y-o/)
-- [User Accounts & Why You Need Dozens](https://blog.markvideon.dev/user-accounts-why-you-need-dozens/)
 - [Mining For Primitives & New Means Of Production](https://blog.markvideon.dev/mining-for-primitives-new-means-of-production/)
 - [Instability, Risk & The Digital Supply Chain](https://blog.markvideon.dev/instability-risk-and-the-digital-supply-chain/)
 - [Ownership & Access Rights](https://blog.markvideon.dev/ownership-and-access-rights/)
 - [Breaking The Work Up](https://blog.markvideon.dev/breaking-the-work-up/)
 - [Commodisation, Or Lack Thereof](https://blog.markvideon.dev/commoditisation-or-lack-thereof/)
-- [The Division of Labour](https://blog.markvideon.dev/the-division-of-labour/)
-- [An Introduction to Code and Quality Metrics](https://blog.markvideon.dev/an-introduction-to-code-and-quality-metrics/)
 
 🚀
 
