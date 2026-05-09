@@ -4,7 +4,7 @@ About me:
 
 I'm actively working on a communication project about understanding software as a form of digital manufacturing. We talk about developers, teams, businesses, intellectual property, digital markets, societal concerns, the physical world, and how they all intertwine to facilitate a market for digital products.
 
-Check out [the story so far](https://blog.markvideon.dev/the-story-so-far/).
+Check out [the story so far](https://blog.markvideon.dev/the-story-so-far/?utm_medium=bio&utm_source=github).
 
 🚀
 
